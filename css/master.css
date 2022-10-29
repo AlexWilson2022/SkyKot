@@ -1,0 +1,45 @@
+body {
+    padding: 5ex;
+    background-color: black;
+}
+section {
+  color: white;
+}
+
+.main-story {
+}
+
+.main-story-text {
+    padding-left: 6ex;
+}
+
+.img-someone-ddosing-kat {
+    display: flex;
+    width: 50vw;
+}
+
+.img-youtube-channel {
+    width: 90vw;
+}
+
+.img-ip-log {
+    width: 75vw;
+}
+
+.img-ip-log2 {
+    width: 30vw;
+}
+
+.img-common{
+    display: inline-grid;
+    width: 20vw;
+}
+
+.img-garbage {
+    width: 90vw;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
